@@ -1,2 +1,2 @@
 # MonarchFanJ
-MonarchFan school project rewritten in java and spring mvc
+MonarchFan school project rewritten in java and spring mvc.
